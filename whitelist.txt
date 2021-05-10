@@ -1,5 +1,0 @@
-android.clients.google.com
-reminders-pa.googleapis.com firestore.googleapis.com
-dl.google.com
-redirector.gvt1.com
-cs11.wpc.v0cdn.net
